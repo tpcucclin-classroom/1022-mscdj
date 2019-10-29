@@ -6,14 +6,14 @@ div {
 }
 
 #bg5 {
-    background-image: url('img/bg3.png'), url('img/bg2.jpg');
+    background-image: url('../img/bg3.png'), url('../img/bg2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #bg6 {
-    background-image: url('img/bg3.png'), url('img/bg2.jpg');
+    background-image: url('../img/bg3.png'), url('../img/bg2.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
